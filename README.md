@@ -66,7 +66,7 @@
   Puedes interactuar con la API en dos entornos:
 </p>
 <ul>
-  <li><strong>Local:</strong> Disponible en <code>http://localhost:8080</code></li>
+  <li><strong>Local:</strong> Disponible en <code>http://localhost:8080/h2-console/</code></li>
   <li><strong>Render:</strong> Disponible en <a href="https://parcialmagneto-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
 </ul>
 
