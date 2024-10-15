@@ -57,7 +57,7 @@
 <p>
   El proyecto está desplegado en <a href="https://parcialmagneto-tsqw.onrender.com">Render</a>. Para acceder a la API en la nube:
 </p>
-<p><strong>URL de la API:</strong> <a href="https://parcialmagneto-tsqw.onrender.com/">https://parcialmagneto-tsqw.onrender.com</a></p>
+
 
 <h2 id="uso">Uso</h2>
 
@@ -66,7 +66,7 @@
   Puedes interactuar con la API en dos entornos:
 </p>
 <ul>
-  <li><strong>Local:</strong> Disponible en <code>http://localhost:8080/h2-console/</code></li>
+  <li><strong>Local:</strong> Disponible en <code>http://localhost:8080/</code></li>
   <li><strong>Render:</strong> Disponible en <a href="https://parcialmagneto-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
 </ul>
 
