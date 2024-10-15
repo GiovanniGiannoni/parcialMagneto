@@ -43,10 +43,10 @@
 <h3>Instalación</h3>
 <ol>
   <li>Clona este repositorio:
-    <pre><code>git clone https://github.com/tu_usuario/proyecto-mutantes.git</code></pre>
+    <pre><code>git clone https://github.com/GiovanniGiannoni/parcialMagneto.git</code></pre>
   </li>
   <li>Navega al directorio del proyecto:
-    <pre><code>cd proyecto-mutantes</code></pre>
+    <pre><code>cd parcialMagneto</code></pre>
   </li>
   <li>Ejecuta el proyecto usando Gradle:
     <pre><code>./gradlew bootRun</code></pre>
