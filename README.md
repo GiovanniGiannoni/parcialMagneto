@@ -70,6 +70,11 @@
 </p>
 <ul>
   <li><strong>Local:</strong> Disponible en <code>http://localhost:8080/</code></li>
+  <p>
+  JDBC URL: jdbc:h2:mem:testdb
+  User Name: SA
+  Password: 
+</p>
   <li><strong>Render:</strong> Disponible en <a href="https://parcialmagneto-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
 </ul>
 
