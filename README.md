@@ -72,7 +72,7 @@
 
 <h4>Endpoints disponibles:</h4>
 <ul>
-  <li><strong>POST /mutant:</strong> Verifica si una secuencia de ADN es mutante.</li>
+  <li><strong>POST /mutant:</strong> Verifica si una secuencia de ADN es mutante.<a href="https://parcialmagneto-tsqw.onrender.com/mutant">https://parcialmagneto-tsqw.onrender.com/mutant</a></li>
 </ul>
 <pre><code>
 {
@@ -81,13 +81,13 @@
 </code></pre>
 
 <ul>
-  <li><strong>GET /stats:</strong> Devuelve estadísticas sobre las verificaciones de ADN (proporción de mutantes/humanos).</li>
+  <li><strong>GET /stats:</strong> Devuelve estadísticas sobre las verificaciones de ADN (proporción de mutantes/humanos).<a href="https://parcialmagneto-tsqw.onrender.com/stats">https://parcialmagneto-tsqw.onrender.com/stats</a></li>
 </ul>
 
 <h2 id="ejemplos">Ejemplos</h2>
 
 <h3>Ejemplo de petición para detectar mutante:</h3>
-<pre><code>curl -X POST https://api-mutantes.render.com/mutant \
+<pre><code>curl -X POST https://parcialmagneto-tsqw.onrender.com/mutant \
 -H 'Content-Type: application/json' \
 -d '{"dna": ["ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"]}'
 </code></pre>
