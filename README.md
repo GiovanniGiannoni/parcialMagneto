@@ -20,7 +20,7 @@
 
 <h2 id="descripción">Descripción</h2>
 <p>
-  Este proyecto implementa una API para detectar si una secuencia de DNA pertenece a un mutante o no. El sistema recibe una cadena de DNA y aplica reglas predefinidas para identificar patrones mutantes.generar estadísticas en tiempo real sobre la cantidad de humanos y mutantes procesados.
+  Este proyecto implementa una API para detectar si una secuencia de DNA pertenece a un mutante o no. El sistema recibe una cadena de DNA y aplica reglas predefinidas para identificar patrones mutantes.Genera estadísticas en tiempo real sobre la cantidad de humanos y mutantes procesados.
 </p>
 
 <h2 id="tecnologías">Tecnologías</h2>
