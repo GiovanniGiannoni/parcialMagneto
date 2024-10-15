@@ -4,7 +4,6 @@ package com.example.parcialMagneto_Giannoni.services;
 import com.example.parcialMagneto_Giannoni.dto.DnaRequest;
 import com.example.parcialMagneto_Giannoni.dto.DnaResponse;
 import com.example.parcialMagneto_Giannoni.dto.StatsResponse;
-import com.example.parcialMagneto_Giannoni.entities.Dna;
 import com.example.parcialMagneto_Giannoni.repositories.DnaRepository;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
