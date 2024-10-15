@@ -55,9 +55,9 @@
 
 <h3 id="despliegue-en-la-nube">Despliegue en la nube</h3>
 <p>
-  El proyecto está desplegado en <a href="https://render.com">Render</a>. Para acceder a la API en la nube:
+  El proyecto está desplegado en <a href="https://parcialmagneto-tsqw.onrender.com">Render</a>. Para acceder a la API en la nube:
 </p>
-<p><strong>URL de la API:</strong> <a href="https://api-mutantes.render.com">https://api-mutantes.render.com</a></p>
+<p><strong>URL de la API:</strong> <a href="https://parcialmagneto-tsqw.onrender.com/">https://parcialmagneto-tsqw.onrender.com</a></p>
 
 <h2 id="uso">Uso</h2>
 
@@ -67,7 +67,7 @@
 </p>
 <ul>
   <li><strong>Local:</strong> Disponible en <code>http://localhost:8080</code></li>
-  <li><strong>Render:</strong> Disponible en <a href="https://api-mutantes.render.com">https://api-mutantes.render.com</a></li>
+  <li><strong>Render:</strong> Disponible en <a href="https://parcialmagneto-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
 </ul>
 
 <h4>Endpoints disponibles:</h4>
