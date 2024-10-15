@@ -48,6 +48,9 @@
   <li>Navega al directorio del proyecto:
     <pre><code>cd parcialMagneto</code></pre>
   </li>
+  <li>Compilar el proyecto:
+    <pre><code>gradle build</code></pre>
+  </li>
   <li>Ejecuta el proyecto usando Gradle:
     <pre><code>./gradlew bootRun</code></pre>
   </li>
